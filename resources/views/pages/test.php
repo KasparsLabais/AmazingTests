@@ -6,7 +6,6 @@
  * Time: 21:31
  */
 
-//die(var_dump($response["params"]["user"]));
 ?>
 
 <div class="row justify-content-center">

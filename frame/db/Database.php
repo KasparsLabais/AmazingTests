@@ -37,6 +37,7 @@ class Database
          * Select DB from connection because we will use only 1 db
          */
         $this->con = mysqli_connect($this->host, $this->user, $this->pw, $this->db, $this->port) or die("Did I died?");
+        mysqli_set_charset($this->con,"utf8");
     }
 
 

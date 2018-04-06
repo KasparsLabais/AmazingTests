@@ -3,7 +3,7 @@
 Amazing tests is simple No-framework application where you can take few (1) tests! JS/CSS do not count
 
 ## Installation
-###Clone repo
+### Clone repo
 
 ```sh
 $ git clone https://github.com/KasparsLabais/AmazingTests.git
